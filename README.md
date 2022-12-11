@@ -21,7 +21,7 @@ abstract class OtherBase {
 }
 ```
 
-```
+```kotlin
 val someEntity = SomeEntity("David", 24)
 someEntity.id = "100000"
 someEntity.someOtherVariable = 100000
